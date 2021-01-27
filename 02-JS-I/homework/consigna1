@@ -1,0 +1,11 @@
+Variables:
+Se utilizan para almacenar un valor para utilizarlo mas tarde en el codigo.
+Strings:
+Son cadenas de caracteres, pueden ser combinaciones de letras numeros y simbolos, siempre van entre comillas.
+Funciones:
+Se crean para no tener que escribir mas de una vez el mismo codigo.
+Los argumentos son los datos que reciben las fuciones para procesarlos y luego retornar los resultados mediante el uso de la instruccion 'return'.
+Declaraciones if:
+Se utilizan para determinar si una expresion es verdadera o falsa y dependiendo el resultado, el programa seguira un camino u otro.
+Valores Booleanos:
+Los valores booleanos son true o false (verdadero o falso) y por lo general son el resultado de expresiones logicas.
