@@ -1,0 +1,5 @@
+El ciclo for permite al programador repetir un bloque de codigo siempre y cuando se cumpla la condicion escrita entre parentesis en la cabecera del ciclo.
+Los operadores logicos(&&, ||, !) se utilizan para evaluar condiciones combinando expresiones logicas, y como resultado se obtiene un valor booleano(true o false)
+&&: se utiliza para evaluar si dos o mas condiciones resultan verdaderas, entonces el resultado final es true, pero si al menos una es falsa el resultado sera false.
+||: se utiliza para evaluar si al menos una de las condicione es verdadera, entonces la expresion sera true, sino sera false.
+!: se utiliza para negar la expresion, esto invierte el resultado de la expresion por si sola(true pasa a ser false y viceversa)
