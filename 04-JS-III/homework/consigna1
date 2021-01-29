@@ -1,0 +1,3 @@
+Arrays:
+Son un conjunto de datos que pueden ser de distintos tipos, almacenados dentro de una sola variable, la cual actua como una coleccion. 
+Cada elemento tiene un numero asociado que se denomina indice, mediante el cual se puede acceder a dicho elemento y operar con el mismo.
