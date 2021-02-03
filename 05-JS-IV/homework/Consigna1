@@ -1,0 +1,12 @@
+Objetos:
+Un objeto es una especie de coleccion de propiedades que representan las caracteristicas y comportamientos del mismo.
+propiedades:
+Una propiedad es un elemento que forma parte del objeto y de alguna manera lo describe.
+Metodos:
+son funciones asociadas al comportamiento del objeto.
+Bucle for... in:
+Se utiliza para iterar un objeto sin necesidad de un indice numerico ya que los indices de los objetos son palabras clave que define el programador.
+Notacion de puntos vs notacion de corchetes:
+La notacion de puntos consiste simplemente en acceder a una propiedad o metodo de un objeto de esta forma: 'objeto.propiedad'
+La notacion de corchetes consiste en colocar el nombre del objeto seguido de un par de corchetes([]) y dentro de los corchetes la clave de la propiedad pero como un string 
+(entre comillas) o primero se almacena el string en una variable y luego se utiliza esa variable como indice.
