@@ -1,0 +1,4 @@
+Prototype:
+Es un objeto generico del cual reciben los metodos y propiedades los objetos que heredan de este.
+Constructors:
+El constructor se encarga de asignar las propiedades y metodos a los objetos.
